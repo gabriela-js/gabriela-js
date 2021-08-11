@@ -24,6 +24,7 @@ Paulista com 22 anos, descobrindo que tudo o que sei hoje talvez não sirva mais
 - 🤖 Machine Learning.
 - 🔢 Matemática.
 - 📏 Estatística.
+- ⚙️ Pytools (Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn)
 
 ### Projetos:
 
