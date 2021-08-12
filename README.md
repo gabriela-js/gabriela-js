@@ -7,24 +7,40 @@
   <p align="center"> 💻 Systems Analysis and Development Student | Currently learning Data Science ❤️ </p>
 </h4>
 
-<h5 align="center"> About me...</h5>
+<p align="center"> Aprendendo que a mudança para conseguir algo, começa por nós mesmos e a importância que damos a esse objetivo.</p>
 
-Paulista com 22 anos, descobrindo que tudo o que sei hoje talvez não sirva mais para o dia de amanhã, porém mantendo sempre a curiosidade de desvendar esse mundo e contribuir de alguma forma positiva.
+### Meus Conhecimentos...
+
+```python
+about_me = "sim"
+while (about_me == "sim"):
+  nome = 'Gabriela J. Santos'
+  cidade = 'São Paulo'
+  pronome = 'ela/dela'
+  conhecimentos = ['linguagens: Python, Ruby, Java, SQL,',
+                  'pytools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn',
+                  'dataviz: Power BI, Tableau, Data-Studio' ,
+                  "iot: Raspberry-Pi, Arduino, Node-MCU" 
+                 ]
+
+  
+  print(nome)
+  print(cidade)
+  print(pronome)
+  print(conhecimentos[0])
+  print(conhecimentos[1])
+  print(conhecimentos[2])
+  print(conhecimentos[3])
+
+
+  about_me = input("Deseja visualizar novamente? (sim/ não) ")
+  ```
 
 
 ---
 
 
-### Estudos:
 
-- 📈 Análise de Dados.
-- 📊 Visualização de Dados.
-- 🎲 Ciência de Dados.
-- 🧠 Inteligência Artificial.
-- 🤖 Machine Learning.
-- 🔢 Matemática.
-- 📏 Estatística.
-- ⚙️ Pytools (Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn)
 
 ### Projetos:
 
