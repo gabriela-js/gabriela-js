@@ -17,7 +17,7 @@ while (about_me == "sim"):
   nome = 'Gabriela J. Santos'
   cidade = 'São Paulo'
   pronome = 'ela/dela'
-  conhecimentos = ['linguagens: Python, Ruby, Java, SQL,',
+  conhecimentos = ['linguagens: Python, Ruby, Java, SQL, C, Javascript',
                   'pytools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn',
                   'dataviz: Power BI, Tableau, Data-Studio' ,
                   "iot: Raspberry-Pi, Arduino, Node-MCU" 
