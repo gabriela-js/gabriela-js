@@ -28,10 +28,9 @@ while (about_me == "sim"):
   print(nome)
   print(cidade)
   print(pronome)
-  print(conhecimentos[0])
-  print(conhecimentos[1])
-  print(conhecimentos[2])
-  print(conhecimentos[3])
+ 
+ for n in range(len(conhecimentos)):
+    print(f"{n}. {conhecimentos[n]}")
 
 
   about_me = input("Deseja visualizar novamente? (sim/ não) ")
