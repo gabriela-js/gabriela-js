@@ -61,7 +61,7 @@ while (about_me == "sim"):
 
 <h2  align="center"></h2>
 <p align="center">
-  <a target="_blank"href="www.linkedin.com/in/gabriela-js"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriela-js/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gaby6jesus@gmail.com?subject=Oi%20Gabriela,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
