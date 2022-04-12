@@ -46,6 +46,7 @@ while (about_me == "sim"):
 
 -**Python Básico**
   - [**Recomenda Aí Udemy**](https://github.com/gabriela-js/Recomenda-Ai-Udemy)
+  - [**Conversor de Moedas**](https://github.com/gabriela-js/Conversor-Moeda)
 
 ---
 
