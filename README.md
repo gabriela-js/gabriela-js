@@ -1,4 +1,4 @@
-[![capa](https://github.com/gabriela-js/gabriela-js/blob/main/github-page.jpg.jpg)](https://github.com/gabriela-js?tab=repositories)
+
 
 <h3 align="center"> <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="60"> I'm Gabriela!</h3>
 
